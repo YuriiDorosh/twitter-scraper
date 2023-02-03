@@ -46,7 +46,8 @@ pip install -r requirements.txt
 
 --> To run the App, we use :
 ```bash
-python twitter_scraping/
+cd ..
+python twitter-scraper/
 
 ```
 
